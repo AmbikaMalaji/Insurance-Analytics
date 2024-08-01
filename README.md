@@ -55,6 +55,7 @@ Derived actionable insights that can be utilized for strategic decision-making a
 Outcomes:
 The Tableau dashboard provides an in-depth analysis of the insurance data, highlighting key trends and metrics.
 It enables users to explore data interactively and gain valuable insights to inform business strategies.
+
 Conclusion
 
 These projects demonstrate the effective use of Excel and Tableau for insurance data analysis. By cleaning, modeling, and visualizing the data, we can extract meaningful insights and drive data-informed decisions. Explore the dashboards to understand the intricacies of insurance data and leverage these insights for improved business outcomes.
