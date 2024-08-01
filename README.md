@@ -30,6 +30,7 @@ Outcomes:
 
 The Excel dashboard provides a comprehensive overview of the insurance data, offering insights into claims, policyholder demographics, and financial performance.
 It facilitates quick decision-making through interactive visual elements and detailed KPIs.
+
 2. Tableau Dashboard
 Objective: To leverage Tableau for advanced data visualization and insight generation from an insurance dataset.
 
